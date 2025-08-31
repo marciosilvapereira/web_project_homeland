@@ -58,7 +58,28 @@
   }
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 783px) {
+  .lead__title {
+    width: 90%;
+    height: 118px;
+    font-size: 60px;
+    line-height: 64px;
+  }
+
+  .lead__subtitle {
+    width: 90%;
+    height: 60px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .lead__image {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 559px) {
   .lead__title {
     width: 90%;
     height: 88px;

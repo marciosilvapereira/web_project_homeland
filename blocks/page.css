@@ -15,8 +15,14 @@
     min-width: 768px;
   }
 }
+@media screen and (max-width: 783px) {
+  .page {
+    min-height: 1600px;
+    min-width: 544px;
+  }
+}
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 559px) {
   .page {
     min-height: 1550px;
     min-width: 320px;
